@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/rst-to-myst/commit/10d1edcb965af9451c3cfbb62951a13890a7a672",
       "git:hexsha": "10d1edcb965af9451c3cfbb62951a13890a7a672",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T19:41:26.701811+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/rst-to-myst/commit/d40e5828f621c2e37fa68c21945484d1ec516e93",
